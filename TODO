@@ -1,0 +1,8 @@
+TODO Document Code
+FIXME Fix getEdgeBounds LineEdge.java   /Graph/src/graph/viewer line 28
+TODO update edgebounds here?    LineEdge.java   /Graph/src/graph/viewer line 37 Java Task
+TODO Write getEdgeBoundary()    EllipseVertex.java  /Graph/src/graph/viewer line 41 Java Task
+TODO Write removeAllEdges(Collection<? extends ET> edges)   Graph.java  /Graph/src/graph    line 140    Java Task
+TODO Write removeAllEdges(VV v1, VV v2) Graph.java  /Graph/src/graph    line 146    Java Task
+TODO Write removeAllVertices(Collection<? extends VV> vertices) Graph.java  /Graph/src/graph    line 152    Java Task
+TODO Write removeVertex(VV v)   Graph.java  /Graph/src/graph    line 180    Java Task
